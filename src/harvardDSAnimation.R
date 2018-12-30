@@ -1,6 +1,6 @@
-# title: "Harvard DS Animation Contest"
-# author: "Michel Benites Nascimento"
-# date: "29 de dezembro de 2018"
+# title:  Harvard DS Animation Contest
+# author: Michel Benites Nascimento
+# date:   2018.12.29
 
 library(ggplot2)
 library(plotly)
