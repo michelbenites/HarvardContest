@@ -58,7 +58,7 @@ for (i in ntry) {
 p <- ggplot(sim.data.total, aes(x=x, y=y, color=z)) + geom_point(aes(frame = pscale)) + ggtitle("Scaling the Dataset") + theme(plot.title = element_text(hjust = -5, vjust=0))
 
 # Animate the ggplot object with ggploty
-ggplotly(p) %>% animation_opts(1000) %>% animation_slider(currentvalue = list(prefix = "Scale ", posfix = "%", font = list(size=12, color="red")))  %>% config(displayModeBar = F)
+ggplotly(p) %>% animation_opts(1000) %>% animation_slider(currentvalue = list(prefix = "Scale ", postfix = "%", font = list(size=13, color="#990d3a", fontface="bold")))  %>% config(displayModeBar = F)
 ```
 
 **Session info**
