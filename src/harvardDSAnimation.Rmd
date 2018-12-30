@@ -1,7 +1,7 @@
 ---
 title: "Harvard DS Animation Contest"
 author: "Michel Benites Nascimento"
-date: "29 de dezembro de 2018"
+date: "December, 29 2018"
 output: html_document
 ---
 
