@@ -1,6 +1,6 @@
 # Harvard Data Science Animation Contest Sumbission
 
-# Scale transformation of a randomized dataset in an animated way.
+# Scaling a randomized dataset in an animated way.
 **Author**: Michel Benites Nascimento
 
 **Affiliation**: Havard Extension School
