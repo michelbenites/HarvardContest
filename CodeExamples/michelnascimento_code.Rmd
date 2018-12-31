@@ -54,7 +54,8 @@ for (i in ntry) {
 
 ```
 
-Graphically I'm showing a dataset that was created in a random way with a uniform distribution that is gradually being scaled (steps of 10%). Initially, we have for the X-axis values between -5 and 5 and for Y values between -25 and 25. At the end of the procedure of scaling the dataset, we will have both X and Y values between -2 and 2, without losing the proportionality.
+Graphically I'm showing a dataset that was created in a random way with a uniform distribution that is gradually being scaled (steps of 10%). Initially, we have for the X-axis values between -5 and 5 and for Y values between -25 and 25. At the end of the procedure of scaling the dataset, we will have both X and Y values between -2 and 2, without losing the proportionality. Essential when you want to use regularization methods like LASSO and Ridge.
+
 
 ```{r animationchart, warning=FALSE}
 # Store in p variable the ggplot object
