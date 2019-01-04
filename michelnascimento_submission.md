@@ -9,7 +9,7 @@
 **Artifact:**
 ![a gif of my submission](ArtifactExamples/michelnascimento_artifact.gif)
 
-**Code:** *[link to code file](CodeExamples/michelnascimento_code.Rmd) from repo*
+**Code:** *[link to code file](CodeExamples/michelnascimento_code.Rmd)*
 
 ### Explanation
 
